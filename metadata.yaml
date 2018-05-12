@@ -1,10 +1,16 @@
 _repo: The-Freelancer_50980
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50980-h/images/cover.jpg
 creator:
   author:
     agent_name: Zacks, Robert
     gutenberg_agent_id: '46179'
     url: http://www.gutenberg.org/2009/agents/46179
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50980#The-Freelancer
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-01-20'
 gutenberg_type: Text
